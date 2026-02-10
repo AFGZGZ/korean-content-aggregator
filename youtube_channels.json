@@ -1,0 +1,54 @@
+{
+  "type": "youtube",
+  "version": "2026-02-09",
+  "resources": [
+    {
+      "id": "yt-talk-to-me-in-korean",
+      "title": "Talk To Me In Korean",
+      "description": "Structured Korean lessons for beginners and beyond.",
+      "url": "https://www.youtube.com/@talktomeinkorean",
+      "level": "Beginner",
+      "topics": ["grammar", "vocab", "listening"],
+      "language": "EN+KR",
+      "thumbnailUrl": "https://i.ytimg.com/vi/WH3kuyuk6DA/maxresdefault.jpg",
+      "tags": ["popular", "structured"],
+      "addedAt": "2026-01-10"
+    },
+    {
+      "id": "yt-didi-korean-podcast",
+      "title": "Didi의 한국문화 Podcast",
+      "description": "Podcast-style videos about Korean culture and daily life, fully in Korean.",
+      "url": "https://www.youtube.com/@DidiKoreanPodcast",
+      "level": "Intermediate",
+      "topics": ["listening", "culture"],
+      "language": "KR",
+      "thumbnailUrl": "https://honoraryreporters.korea.net/file/thumbnail.do?img_physical=202452804019297.png",
+      "tags": ["podcast", "culture", "immersion"],
+      "addedAt": "2026-01-12"
+    },
+    {
+      "id": "yt-morip-korean",
+      "title": "몰입한국어 (Immersion in Korean)",
+      "description": "Comprehensible input Korean videos designed for immersion-based learning.",
+      "url": "https://www.youtube.com/@morip.korean",
+      "level": "Beginner",
+      "topics": ["listening", "immersion"],
+      "language": "KR",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_fhs5Ib5H2M/hqdefault.jpg",
+      "tags": ["immersion", "comprehensible-input"],
+      "addedAt": "2026-01-12"
+    },
+    {
+      "id": "yt-korean-sunflower",
+      "title": "Korean Sunflower",
+      "description": "Slow, clear Korean listening practice with simple explanations.",
+      "url": "https://www.youtube.com/@Koreansunflower7",
+      "level": "Beginner",
+      "topics": ["listening", "pronunciation"],
+      "language": "KR",
+      "thumbnailUrl": "https://i.ytimg.com/vi/t0P6hcsTNVI/hqdefault.jpg",
+      "tags": ["slow-korean", "listening"],
+      "addedAt": "2026-01-12"
+    }
+  ]
+}
