@@ -1,98 +1,48 @@
 {
   "type": "youtube",
-  "version": "2026-02-10",
+  "version": "2026-02-11",
   "resources": [
     {
-      "id": "yt-ttmik-beginner-listening",
-      "title": "Korean Listening Practice for Beginners",
-      "url": "https://www.youtube.com/watch?v=3o9K2x8FzqM",
-      "thumbnailUrl": "https://img.youtube.com/vi/3o9K2x8FzqM/hqdefault.jpg",
+      "id": "3min-01",
+      "title": "3 min. Korean PodcastㅣEp.11: 유튜브 시작한 지 벌써 1년",
+      "url": "https://www.youtube.com/watch?v=fW7JGCMUZIk",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fW7JGCMUZIk/maxresdefault.jpg",
       "contentType": "youtube",
       "level": "beginner",
       "topics": ["listening", "daily-life"],
       "language": "ko"
     },
     {
-      "id": "yt-daily-korean-vocab",
-      "title": "Learn 50 Essential Korean Words",
-      "url": "https://www.youtube.com/watch?v=7K8J5ZpZ5nQ",
-      "thumbnailUrl": "https://img.youtube.com/vi/7K8J5ZpZ5nQ/hqdefault.jpg",
+      "id": "didi-01",
+      "title": "📸 한국의 사진 문화 (Picture Culture in Korea)",
+      "url": "https://www.youtube.com/watch?v=-WZ4ekgannM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-WZ4ekgannM/maxresdefault.jpg",
+      "contentType": "youtube",
+      "level": "intermediate",
+      "topics": ["listening"],
+      "language": "ko"
+    },
+    {
+      "id": "ttmik-01",
+      "title": "One-Minute Korean: I don't think so.",
+      "url": "https://www.youtube.com/watch?v=1Uo6l5kGNes",
+      "thumbnailUrl": "https://i.ytimg.com/vi/1Uo6l5kGNes/maxresdefault.jpg",
+      "contentType": "youtube",
+      "level": "beginner",
+      "topics": ["basics"],
+      "tags": [],
+      "language": "en"
+    },
+    {
+      "id": "minji-01",
+      "title": "Learn Korean Words With Minji!! _ Drinks",
+      "url": "https://www.youtube.com/watch?v=-gi4OtFMgn0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-gi4OtFMgn0/hq720.jpg",
       "contentType": "youtube",
       "level": "beginner",
       "topics": ["vocabulary"],
-      "language": "ko"
-    },
-    {
-      "id": "blog-howtostudykorean-lesson1",
-      "title": "How to Study Korean – Lesson 1",
-      "url": "https://www.howtostudykorean.com/unit-1/unit-1-lessons-1-8/lesson-1/",
-      "thumbnailUrl": "https://www.howtostudykorean.com/wp-content/uploads/2014/05/logo.png",
-      "contentType": "blog",
-      "level": "beginner",
-      "topics": ["grammar", "basics"],
       "tags": [],
-      "addedAt": "2026-02-10",
       "language": "en"
-    },
-    {
-      "id": "blog-ttmik-hangul",
-      "title": "Learn Hangul in 15 Minutes",
-      "url": "https://talktomeinkorean.com/curriculum/learn-hangul/",
-      "thumbnailUrl": "https://talktomeinkorean.com/wp-content/uploads/2019/01/ttmik-og.png",
-      "contentType": "blog",
-      "level": "beginner",
-      "topics": ["hangul", "reading"],
-      "tags": [],
-      "addedAt": "2026-02-10",
-      "language": "en"
-    },
-    {
-      "id": "podcast-iyagi-episode-1",
-      "title": "Iyagi Beginner – Episode 1",
-      "url": "https://talktomeinkorean.com/audio/iyagi-beginner/",
-      "thumbnailUrl": "https://talktomeinkorean.com/wp-content/uploads/2020/06/iyagi-cover.png",
-      "contentType": "podcast",
-      "level": "beginner",
-      "topics": ["listening", "conversation"],
-      "tags": [],
-      "addedAt": "2026-02-10",
-      "language": "ko"
-    },
-    {
-      "id": "yt-topik-listening-practice",
-      "title": "TOPIK Listening Practice (Intermediate)",
-      "url": "https://www.youtube.com/watch?v=F9k8YhJXk9M",
-      "thumbnailUrl": "https://img.youtube.com/vi/F9k8YhJXk9M/hqdefault.jpg",
-      "contentType": "youtube",
-      "level": "intermediate",
-      "topics": ["listening", "topik"],
-      "tags": [],
-      "addedAt": "2026-02-10",
-      "language": "ko"
-    },
-    {
-      "id": "blog-topik-writing-tips",
-      "title": "TOPIK Writing Tips and Structure",
-      "url": "https://www.koreantopik.com/topik-writing-guide/",
-      "thumbnailUrl": "https://www.koreantopik.com/wp-content/uploads/2020/08/topik-writing.png",
-      "contentType": "blog",
-      "level": "intermediate",
-      "topics": ["writing", "topik"],
-      "tags": [],
-      "addedAt": "2026-02-10",
-      "language": "en"
-    },
-    {
-      "id": "yt-korean-shadowing",
-      "title": "Korean Shadowing Practice",
-      "url": "https://www.youtube.com/watch?v=YpQeFJ9zX5U",
-      "thumbnailUrl": "https://img.youtube.com/vi/YpQeFJ9zX5U/hqdefault.jpg",
-      "contentType": "youtube",
-      "level": "advanced",
-      "topics": ["speaking", "pronunciation"],
-      "tags": [],
-      "addedAt": "2026-02-10",
-      "language": "ko"
     }
   ]
 }
