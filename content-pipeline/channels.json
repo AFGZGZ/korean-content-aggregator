@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Didi의 한국문화 Podcast",
+    "channelId": "UCCaFYslhot_g4QxMjAcC0gg",
+    "defaultLevel": "intermediate",
+    "topics": [
+      "listening",
+      "culture",
+      "conversation",
+      "vocabulary",
+      "expressions",
+      "daily-life",
+      "news"
+    ]
+  },
+  {
+    "name": "Learn Korean with GO! Billy Korean",
+    "channelId": "UC7ynjArlSFuXW23ssZAknyA",
+    "defaultLevel": "intermediate",
+    "topics": [
+      "grammar",
+      "vocabulary",
+      "pronunciation",
+      "listening",
+      "speaking",
+      "hangul",
+      "honorifics",
+      "culture",
+      "study-tips"
+    ]
+  },
+  {
+    "name": "Conversational Korean",
+    "channelId": "UCYh6ilkmW_wXmSgqq-xdqUQ",
+    "defaultLevel": "beginner",
+    "topics": [
+      "grammar",
+      "vocabulary",
+      "pronunciation",
+      "conversation",
+      "listening",
+      "reading"
+    ]
+  },
+  {
+    "name": "Hailey _Your Korean Friend",
+    "channelId": "UCIUxVMfxb4c4TfSGgMXJTFw",
+    "defaultLevel": "beginner",
+    "topics": [
+      "hangul",
+      "pronunciation",
+      "grammar",
+      "vocabulary",
+      "conversation",
+      "listening",
+      "culture",
+      "daily-life"
+    ]
+  },
+  {
+    "name": "seemile Korean",
+    "channelId": "UCKIicR8VM3HczwmJM9UxtTw",
+    "defaultLevel": "beginner",
+    "topics": [
+      "hangul",
+      "grammar",
+      "vocabulary",
+      "pronunciation",
+      "listening",
+      "conversation",
+      "culture",
+      "topik"
+    ]
+  },
+  {
+    "name": "케이진 KJin",
+    "channelId": "UCjLys1wWLJLyCJy7n6tRuGA",
+    "defaultLevel": "intermediate",
+    "topics": [
+      "listening",
+      "culture",
+      "vocabulary",
+      "conversation",
+      "podcasts",
+      "expressions",
+      "daily-life"
+    ]
+  },
+  {
+    "name": "Korean with Miss Vicky 빅키쌤",
+    "channelId": "UCJpIsrXze5HT3X64LDIIHUg",
+    "defaultLevel": "beginner",
+    "topics": [
+      "grammar",
+      "hangul",
+      "pronunciation",
+      "vocabulary",
+      "listening",
+      "speaking",
+      "topik",
+      "batchim"
+    ]
+  },
+  {
+    "name": "최수수 ChoiSusu",
+    "channelId": "UCb9kdZ3LKOTTcpp_1pw0o3g",
+    "defaultLevel": "intermediate",
+    "topics": [
+      "listening",
+      "podcasts",
+      "comprehensible-input",
+      "conversation",
+      "vocabulary",
+      "daily-life",
+      "culture",
+      "shadowing"
+    ]
+  },
+  {
+    "name": "태웅쌤 - Comprehensible Input Korean",
+    "channelId": "UC737T1zTN6MQ1uWorHVAXvA",
+    "defaultLevel": "beginner",
+    "topics": [
+      "comprehensible-input",
+      "listening",
+      "storytelling",
+      "conversation",
+      "hangul",
+      "immersion",
+      "tprs",
+      "shadowing"
+    ]
+  },
+  {
+    "name": "몰입한국어 Immersion in Korean",
+    "channelId": "UC-3wHyVaLCiujjjPYXtif5w",
+    "defaultLevel": "beginner",
+    "topics": [
+      "comprehensible-input",
+      "listening",
+      "immersion",
+      "storytelling",
+      "shadowing",
+      "conversation",
+      "daily-life",
+      "vocabulary"
+    ]
+  },
+  {
+    "name": "Real Korean with Morning",
+    "channelId": "UC1orofViseR1HE42X8PSQtQ",
+    "defaultLevel": "beginner",
+    "topics": [
+      "listening",
+      "conversation",
+      "speaking",
+      "pronunciation",
+      "shadowing",
+      "daily-life",
+      "kdrama",
+      "hangul"
+    ]
+  }
+]
